@@ -5,7 +5,7 @@ public class login {
 
 	public static void login()
 	{
-		System.out.println("123");
+		System.out.println("1234");
 	}
 
 }
